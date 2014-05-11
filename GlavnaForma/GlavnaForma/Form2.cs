@@ -38,9 +38,6 @@ namespace GlavnaForma
 
             ResetTimer();
 
-            //gam.DismantledMinesChanged += new EventHandler(gam_DismantledMinesChanged);
-            //gam.OnDismantledMinesChanged();
-
             //if (gam.isGameOver)
             //{
             //    //gam.Explode += new EventHandler(gam_Explode);
