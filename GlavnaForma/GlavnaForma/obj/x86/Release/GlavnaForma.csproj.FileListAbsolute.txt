@@ -1,0 +1,12 @@
+C:\Users\Natasa\Downloads\GlavnaForma (1)\GlavnaForma\GlavnaForma\GlavnaForma\obj\x86\Release\GlavnaForma.Credits.resources
+C:\Users\Natasa\Downloads\GlavnaForma (1)\GlavnaForma\GlavnaForma\GlavnaForma\obj\x86\Release\GlavnaForma.Form1.resources
+C:\Users\Natasa\Downloads\GlavnaForma (1)\GlavnaForma\GlavnaForma\GlavnaForma\obj\x86\Release\GlavnaForma.Form2.resources
+C:\Users\Natasa\Downloads\GlavnaForma (1)\GlavnaForma\GlavnaForma\GlavnaForma\obj\x86\Release\GlavnaForma.Form3.resources
+C:\Users\Natasa\Downloads\GlavnaForma (1)\GlavnaForma\GlavnaForma\GlavnaForma\obj\x86\Release\GlavnaForma.Instructions.resources
+C:\Users\Natasa\Downloads\GlavnaForma (1)\GlavnaForma\GlavnaForma\GlavnaForma\obj\x86\Release\GlavnaForma.Properties.Resources.resources
+C:\Users\Natasa\Downloads\GlavnaForma (1)\GlavnaForma\GlavnaForma\GlavnaForma\obj\x86\Release\GlavnaForma.csproj.GenerateResource.Cache
+C:\Users\Natasa\Downloads\GlavnaForma (1)\GlavnaForma\GlavnaForma\GlavnaForma\bin\Release\GlavnaForma.exe
+C:\Users\Natasa\Downloads\GlavnaForma (1)\GlavnaForma\GlavnaForma\GlavnaForma\bin\Release\GlavnaForma.pdb
+C:\Users\Natasa\Downloads\GlavnaForma (1)\GlavnaForma\GlavnaForma\GlavnaForma\obj\x86\Release\GlavnaForma.exe
+C:\Users\Natasa\Downloads\GlavnaForma (1)\GlavnaForma\GlavnaForma\GlavnaForma\obj\x86\Release\GlavnaForma.pdb
+C:\Users\Natasa\Downloads\GlavnaForma (1)\GlavnaForma\GlavnaForma\GlavnaForma\obj\x86\Release\GlavnaForma.csprojResolveAssemblyReference.cache
